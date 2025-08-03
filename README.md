@@ -20,15 +20,15 @@ This is a mini Python project that reads a `.txt` file, cleans the text, and ana
 
 # Sample Output
 
-Enter File Name : romeo.txt
-Total Frequency of Words
-{'but': 2, 'soft': 1, 'what': 1, 'light': 1, ...}
-Total Words in File : 324
-Most Common Word  Is "the" Used 29 Times.
+Enter File Name : romeo.txt<br>
+Total Frequency of Words<br>
+{'but': 2, 'soft': 1, 'what': 1, 'light': 1, ...}<br>
+Total Words in File : 324<br>
+Most Common Word  Is "the" Used 29 Times.<br>
 Word "Python" Is Used 3 Times
 
 # Author
 Muhammad Saqib<br>
-BSCS-SZABIST'26 | Python
+BSCS-SZABIST'26 | Python<br>
 GitHub: @muhamad-saqib
 
