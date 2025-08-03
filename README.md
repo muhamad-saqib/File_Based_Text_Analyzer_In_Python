@@ -28,7 +28,7 @@ Most Common Word  Is "the" Used 29 Times.
 Word "Python" Is Used 3 Times
 
 # Author
-Muhammad Saqib
+Muhammad Saqib<br>
 BSCS-SZABIST'26 | Python
-GitHub: @YourUsername
+GitHub: @muhamad-saqib
 
